@@ -8,9 +8,9 @@ sudo npm install -g http-server
 
 And then run via command
 ```
-http-server ./web-with-manifest-json
+http-server -p 10191 ./web-with-manifest-json
 ```
 or
 ```
-http-server ./web-without-manifest-json
+http-server -p 10192 ./web-without-manifest-json
 ```
