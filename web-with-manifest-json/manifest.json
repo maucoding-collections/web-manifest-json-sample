@@ -3,7 +3,7 @@
   "short_name": "Sample Manifest Web",
   "theme_color": "#3498db",
   "background_color": "#3498db",
-  "display": "standalone",
+  "display": "browser",
   "scope": "/",
   "start_url": "/",
   "icons": [
